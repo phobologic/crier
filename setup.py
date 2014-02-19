@@ -25,7 +25,7 @@ if __name__ == '__main__':
         author_email='loki77@gmail.com',
         license="New BSD license",
         url="https://github.com/phobologic/crier",
-        description='A simple service/client coordination system.'
+        description='A simple service/client coordination system.',
         long_description=read('README.rst'),
         classifiers=[
             "License :: OSI Approved :: BSD License",
